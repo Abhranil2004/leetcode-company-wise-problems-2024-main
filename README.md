@@ -1,4 +1,4 @@
-![leetcode-company-wise-problems-2024](https://github.com/Abhranil2004/leetcode-company-wise-problems-2024/blob/general/screencapture-camo-githubusercontent-af8454d576d1d53abcc1f082e51fa4134a8f791daff50d866ed9fbdba1bf5f9b-68747470733a2f2f736f6369616c6966792e6769742e63692f6878753239362f6c656574636f64652d636f6d70616e792d776973652d%20(1).jpg)
+![leetcode-company-wise-problems-2024](https://github.com/Abhranil2004/leetcode-company-wise-problems-2024-main/blob/general/screencapture-camo-githubusercontent-af8454d576d1d53abcc1f082e51fa4134a8f791daff50d866ed9fbdba1bf5f9b-68747470733a2f2f736f6369616c6966792e6769742e63692f6878753239362f6c656574636f64652d636f6d70616e792d776973652d%20(1).jpg)
 ## Leetcode Company-wise Problem Lists
 
 Curated lists of Leetcode questions group by companies, updated as of May, 2024.
